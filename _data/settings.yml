@@ -8,10 +8,10 @@ phone: +977 980 000 0000
 address: WNo/3, Tilottama, Lumbini, Nepal
 
 menu:
-- {name: About, link: '{{site.baseurl}}/about/'}
-- {name: Blog, link: '{{site.baseurl}}/blog/'}
-- {name: Portfolio, link: '{{site.baseurl}}/portfolio/'}
-- {name: Contact, link: '{{site.baseurl}}/contact/'}
+- {name: About, link: '/about'}
+- {name: Blog, link: '/blog'}
+- {name: Portfolio, link: '/portfolio'}
+- {name: Contact, link: '{{/contact'}
 
 
 #-------------------------------
@@ -51,7 +51,7 @@ social:
 blurb:
   Shubhanga Ghimire (The Sewak) is a 16 year old tech enthusiast, programmer and a student from NEPAL. He loves Open Source and has recently started his Open Source journey from a web platform "codingmissions.org" with the help of his mentor Budh Ram Gurung. He has learnt many programming languages by self-study and believes self-study is the best way to learn anything.
 
-blurb-btn-link: '{{site.baseurl}}/about'
+blurb-btn-link: '/about'
 blurb-btn-name: know more
 
 
