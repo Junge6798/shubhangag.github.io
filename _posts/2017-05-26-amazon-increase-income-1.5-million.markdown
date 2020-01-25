@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  Amazon increase income 1.5 Million
-date:   2017-05-26 10:05:55 +0300
+date:   2020-01-25 07:56:00 +0545
 image:  post-2.jpg
-author: uixgeek
-tags:   UX design
+author: Shubhanga
+tags:   Sample blog
 ---
 ![post-thumb]({{site.baseurl}}/assets/images/blog/post-1.jpg){:class="img-fluid rounded float-left mr-5 mb-4"}
 
