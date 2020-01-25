@@ -1,4 +1,4 @@
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "shubhan" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -6,6 +6,7 @@ markdown: kramdown
 permalink: pretty
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Pages Path
 defaults:

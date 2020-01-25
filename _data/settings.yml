@@ -1,11 +1,11 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross - Jekyll Portfolio Template
+title: Shubhanga - The Sewak
 logo: logo.png
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: shubhangagh@gmail.com
+phone: +977 980 000 0000
+address: WNo/3, Tilottama, Lumbini, Nepal
 
 menu:
 - {name: About, link: '/about/'}
@@ -35,21 +35,21 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Shubhanga <br> (The Sewak)
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
-
+- {icon: "ti-facebook", link: "https://facebook.com/shubhanga335"}
+- {icon: "ti-instagram", link: "https://instagram.com/shubhanga335/"}
+- {icon: "ti-github", link: "https://github.com/shubhangaG"}
+- {icon: "ti-youtube", link: "https://www.youtube.com/channel/UCN5Ef2Spjdhi9lQgjuHctRg?"}
+- {icon: "ti-twitter", link: "https://twitter.com"}
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Shubhanga Ghimire (The Sewak) is a 16 year old tech enthusiast, programmer and a student from NEPAL. He loves Open Source and has recently started his Open Source journey from a web platform "codingmissions.org" with the help of his mentor Budh Ram Gurung. He has learnt many programming languages by self-study and believes self-study is the best way to learn anything.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -61,30 +61,30 @@ blurb-btn-name: know more
 work-process:
   - title : "Research and Plan"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Before starting to code, he researchs about the project and plans accordingly. After researching and planning, he starts the project."
     
   - title : "Design and Develop"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "He collects all the required things then he starts designing using various tools and develops the product according to the design."
     
   - title : "Deliver"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "He gives his 100% and delivers the product on time. Mostly he makes personal projects and practices to develop good skills."
 
 
 # My Team Section
-team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+# # team:
+#   - title : "Jack Schenziwe"
+#     image : "assets/images/team/member-1.png"
+#     designation : "Project Manager"
     
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+#   - title : "Julias Carlie"
+#     image : "assets/images/team/member-2.png"
+#     designation : "Web Developer"
     
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
+#   - title : "John Doe"
+#     image : "assets/images/team/member-3.png"
+#     designation : "Designer"
 
 
 #-------------------------------
@@ -92,10 +92,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: HTML/CSS, color: '#fdb157', value: '70%'}
+- {name: Python, color: '#9473e6', value: '60%'}
+- {name: C++, color: '#bdecf6', value: '40%'}
+- {name: Flutter/Dart, color: '#ffbcaa', value: '20%'}
 
 
 #-------------------------------
@@ -103,9 +103,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Open Source Development, icon: 'icon-1.png', date: 'Jan 2020 - Present', organization: 'Coding Missions'}
+- {name: Representative/Founding Member, icon: 'icon-2.png', date: '2017 - Feb 2019', organization: "Siddharthians' ICT Club"}
+# - {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
@@ -113,33 +113,33 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+# - {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
+# - {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
+- {name: Higher Secondary Certificate (Science), date: '2019-present', organization: 'Siddhartha E.B.Sec. School'}
+- {name: Secondary School Certificate, date: '2019', organization: 'Siddhartha E.B.Sec. School'}
 
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: What he does?
 services:
 - {
-    name: UI Design,
-    icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    name: Website Development,
+    icon: ti-world,
+    description: 'He does web development projects and has very good experience in web technology.',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: true # Add true to select section
+    name: Software Development,
+    icon: ti-server,
+    description: 'He loves creating useful desktop softwares and applies his programming skills to develop personal softwares.',
+    active: # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: App development,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'He is passonate to learn and do mobile app development. His goal for 2020 is to fulfill this!',
     active: # Add true to select section
   }
 
@@ -150,108 +150,113 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+  # - image : "assets/images/portfolio/item-1.png"
+  #   url: "#"
     
   - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "/portfolio.html"
     
   - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "/portfolio.html"
     
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
+  # - image : "assets/images/portfolio/item-4.png"
+  #   url: "#"
     
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+  # - image : "assets/images/portfolio/item-5.png"
+  #   url: "#"
 
 
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
+    title : "Web Development",
     type : "design"
   }
 - {
-    title : "BRANDING",
+    title : "Software Development",
     type : "branding"
   }
-- {
-    title : "ILLUSTRATION",
-    type : "illustration"
-  }
+# - {
+#     title : "ILLUSTRATION",
+#     type : "illustration"
+#   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-     - type: "design"
-     - type: "illustration"
+  # - image : "assets/images/portfolio/item-1.png"
+  #   url: "#"
+  #   portfolio-type:
+  #    - type: "design"
+  #    - type: "illustration"
       
   - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "/404.html"
     portfolio-type:
       - type: "branding"
       
   - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+    url: "/404.html"
     portfolio-type:
       - type: "design"
       
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+  # - image : "assets/images/portfolio/item-6.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "design"
+  #     - type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+  # - image : "assets/images/portfolio/item-8.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "illustration"
       
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+  # - image : "assets/images/portfolio/item-5.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "design"
+      
+  # - image : "assets/images/portfolio/item-1.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "branding"
+      
+  # - image : "assets/images/portfolio/item-3.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "design"
+  #     - type: "illustration"
+  #     - type: "branding"
+      
+  # - image : "assets/images/portfolio/item-7.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "illustration"
 
 
 #-------------------------------
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
+  - name: "Budh Ram Gurung"
+    image: "assets/images/testimonial/client-1.jpg"
+    designation : "Professional trainer / Full Stack Engineer"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
+  - name: "Jiwan Bhattrai"
+    image: "assets/images/testimonial/client-2.jpg"
+    designation: "Corporate IT Instructor, <br> A+, N+,CCNA,CCNP,CISCO Certified CCIE #60261,<br> RHCSA, RHCE, MSCE, CEH, Cisco Certified Instructor"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
+  - name: "Bishworaj Poudel"
+    image: "assets/images/testimonial/client-3.jpg"
+    designation: "Software and Web developer"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
-
+  - name: "Basanta Saru Magar"
+    image: "assets/images/testimonial/client-4.jpg"
+    designation: "Computer Teacher,<br> Siddhartha E.B.Sec.School"
+    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  
+  
 #-------------------------------
 # Client Slider Section
 
@@ -290,4 +295,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: shubhangagh@gmail.com

@@ -1,18 +1,13 @@
 ---
 layout: about
-title: About Me
-author: Johnathan Smith
+title: About<br>Shubhanga
+author: Shubhanga Ghimire
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+Shubhanga Ghimire <i>(The Sewak) </i> is a 16 year old tech enthusiast, programmer and a student from NEPAL. He loves Open Source and has recently started his Open Source journey from a web platform <b> "<a href ="https://codingmissions.org">codingmissions.org </a>" </b> with the help of his mentor <a href = "https://linkedin.com/in/coolbrg"><i>Budh Ram Gurung</i></a>. He has learnt many programming languages by self-study and believes self-study is the best way to learn anything.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+Currently, he is learning C++ and plans to develop many useful softwares in near future. At the age of 13, he participated in District Level Website Designing competetion and from then, he is motivated a lot to do something in the tech industry of Nepal.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+He is also one of the founding members of Siddharthians' ICT Club <i>(a students' ICT club of his school)</i> and was an active member of the club from 2017-2019. He believes everyone must know about technology even if they are from non-IT field. He wants Nepal's IT industry to be able to compete globally.
