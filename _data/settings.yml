@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Shubhanga - The Sewak
-logo: /assets/images/logo.png
+logo: "/assets/images/logo.png"
 email: shubhangagh@gmail.com
 phone: +977 980 000 0000
 address: WNo/3, Tilottama, Lumbini, Nepal
@@ -237,22 +237,22 @@ portfolio-items:
 
 testimonial-items:
   - name: "Budh Ram Gurung"
-    image: "assets/images/testimonial/client-1.jpg"
+    image: "/assets/images/testimonial/client-1.jpg"
     designation : "Professional trainer / Full Stack Engineer"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     
   - name: "Jiwan Bhattrai"
-    image: "assets/images/testimonial/client-2.jpg"
+    image: "/assets/images/testimonial/client-2.jpg"
     designation: "Corporate IT Instructor, <br> A+, N+,CCNA,CCNP,CISCO Certified CCIE #60261,<br> RHCSA, RHCE, MSCE, CEH, Cisco Certified Instructor"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     
   - name: "Bishworaj Poudel"
-    image: "assets/images/testimonial/client-3.jpg"
+    image: "/assets/images/testimonial/client-3.jpg"
     designation: "Software and Web developer"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
   - name: "Basanta Saru Magar"
-    image: "assets/images/testimonial/client-4.jpg"
+    image: "/assets/images/testimonial/client-4.jpg"
     designation: "Computer Teacher,<br> Siddhartha E.B.Sec.School"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   
