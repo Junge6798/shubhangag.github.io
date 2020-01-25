@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About<br>Shubhanga
+title: About Shubhanga
 author: Shubhanga Ghimire
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
