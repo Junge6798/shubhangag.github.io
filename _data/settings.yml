@@ -22,7 +22,7 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics: # UA-XXXXXX-X
+google-analytics: UA-156551280-1 # UA-XXXXXX-X
 
 
 #-------------------------------
@@ -35,14 +35,14 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Shubhanga <br> (The Sewak)
+  hero-title: Hi! I’m<br>Shubhanga <br> (The Sewak)
 
 social:
 - {icon: "ti-facebook", link: "https://facebook.com/shubhanga335"}
 - {icon: "ti-instagram", link: "https://instagram.com/shubhanga335/"}
 - {icon: "ti-github", link: "https://github.com/shubhangaG"}
 - {icon: "ti-youtube", link: "https://www.youtube.com/channel/UCN5Ef2Spjdhi9lQgjuHctRg?"}
-- {icon: "ti-twitter", link: "https://twitter.com"}
+- {icon: "ti-twitter", link: "https://twitter.com/imshubhanga"}
 
 #-------------------------------
 # About (Section and Page)
